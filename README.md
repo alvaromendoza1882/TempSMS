@@ -1,1 +1,2 @@
-# TempSMS
+## Introduction 
+Virtual Temporary and Disposable Phone Numbers. This tool uses an online service to receives SMS from all anywhere in the world to our temporary phone numbers in Canada, USA, United Kingdom, France, Sweden, and Netherlands. The Aim is to protect your privacy and it is totally free. The phone numbers are disposable and all messages are discarded after 2-3 days. Provided virtual phone numbers are refreshed with new ones every 30 days. All the virtual numbers can receive messages globally from anywhere in the world even if the sender is in a different country. Leave me a star if you want more scripts 💙
